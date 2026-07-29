@@ -11,7 +11,6 @@ Foram criadas duas VMs no Oracle VirtualBox e interconectadas por uma **Rede Int
 * **CL-Win11:** Windows 11 Pro (4 GB RAM / 2 vCPUs).
 
 <h4> Criação das VMs no VirtualBox <img width="1911" height="764" alt="VirtualBox" src="https://github.com/user-attachments/assets/03358397-4784-49be-a272-011a391b337f" /></h4>
-)
 
 ---
 
@@ -97,3 +96,4 @@ Write-Host "Lista de serviços em execução exportada com sucesso para servicos
 ### 🧪 Resultado do Teste
 <h4> Execução dos scripts PowerShell e geração dos relatórios <img width="1017" height="771" alt="Script servicos" src="https://github.com/user-attachments/assets/a1d23e06-c1e4-49c9-8ce7-759486765a47" /> <img width="1020" height="768" alt="Script processos" src="https://github.com/user-attachments/assets/2d37937b-59ad-4cd4-9da1-75a2c339178d" /> </h4>
 
+---
